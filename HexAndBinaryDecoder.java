@@ -26,7 +26,8 @@ public class HexAndBinaryDecoder {
             //long hexConv = (new Double(hexDub)).longValue();//http://www.java67.com/2014/11/how-to-convert-double-to-long-in-java-example.html
             number = number + hexConv;
         }
-
+//change for lab 3
+        
         return number;
 
 
