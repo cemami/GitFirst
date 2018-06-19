@@ -27,7 +27,7 @@ public class HexAndBinaryDecoder {
             number = number + hexConv;
         }
 //change for lab 3
-        
+        //yes
         return number;
 
 
